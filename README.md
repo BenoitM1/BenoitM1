@@ -1,8 +1,7 @@
 ### Hi there
 * My name is Benoit
 * I’m currently working on my portfolio
-* I’m currently learning everything I can about data
-* Fun fact: 
+* I’m currently learning everything I can on data
 
 <!---
 To show an image on my profile
