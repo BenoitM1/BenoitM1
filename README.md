@@ -1,16 +1,8 @@
-### Hi there 👋
-* 👂 My name is Benoit
-* 🔭 I’m currently working on my portfolio
-* 🌱 I’m currently learning everything I can about data
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ...
-
-<!---
-BenoitM1/BenoitM1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there
+* My name is Benoit
+* I’m currently working on my portfolio
+* I’m currently learning everything I can about data
+* Fun fact: 
 
 <!---
 To show an image on my profile
